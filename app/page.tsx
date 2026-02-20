@@ -17,7 +17,7 @@ export default function Home() {
           <a href="#pricing" className="hover:text-blue-400 transition">Pricing</a>
         </div>
         <button
-          onClick={() => window.open('https://zeeshanptn.gumroad.com/l/your-product', '_blank')}
+          onClick={() => window.open('https://7407893433666.gumroad.com/l/wcinpg', '_blank')}
           className="bg-white text-black px-5 py-2 rounded-full font-bold hover:bg-gray-200 transition">
           Get Access
         </button>
@@ -41,7 +41,7 @@ export default function Home() {
 
         <div className="flex flex-col md:flex-row gap-4">
           <button
-            onClick={() => window.open('https://zeeshanptn.gumroad.com/l/your-product', '_blank')}
+            onClick={() => window.open('https://7407893433666.gumroad.com/l/wcinpg', '_blank')}
             className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-full text-lg font-bold transition transform hover:scale-105 shadow-lg shadow-blue-500/30">
             Download AI Lite Kit ($99)
           </button>
@@ -209,7 +209,7 @@ export default function Home() {
               </ul>
 
               <button
-                onClick={() => window.open('https://zeeshanptn.gumroad.com/l/your-product', '_blank')}
+                onClick={() => window.open('https://7407893433666.gumroad.com/l/wcinpg', '_blank')}
                 className="w-full py-4 rounded-lg bg-white text-black hover:bg-gray-200 transition font-bold shadow-lg shadow-purple-900/20 text-lg">
                 Get Instant Access ??              </button>
             </div>
