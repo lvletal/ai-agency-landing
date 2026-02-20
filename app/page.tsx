@@ -11,8 +11,7 @@ export default function Home() {
       {/* Navigation */}
       <nav className="flex justify-between items-center py-6 px-4 md:px-10 max-w-7xl mx-auto w-full">
         <div className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-500">
-          AI Lite Kit ⚡
-        </div>
+          AI Lite Kit ??        </div>
         <div className="space-x-6 hidden md:block text-sm font-medium text-gray-300">
           <a href="#features" className="hover:text-blue-400 transition">Features</a>
           <a href="#pricing" className="hover:text-blue-400 transition">Pricing</a>
@@ -27,7 +26,7 @@ export default function Home() {
       {/* Hero Section */}
       <header className="flex flex-col items-center justify-center text-center mt-20 px-4 mb-20">
         <div className="bg-gray-800 text-sm px-4 py-1 rounded-full mb-6 border border-gray-700 animate-pulse text-blue-300">
-          🔥 New: Python SaaS Starter for Non-Coders
+          ?�� New: Python SaaS Starter for Non-Coders
         </div>
         <h1 className="text-5xl md:text-7xl font-extrabold max-w-4xl leading-tight mb-6">
           Launch your AI Application <br />
@@ -135,7 +134,7 @@ export default function Home() {
                 <div className="bg-blue-600 p-2 rounded-lg text-white"><Zap size={20} /></div>
                 <div>
                   <div className="font-bold text-sm">ai-lite-kit.zip</div>
-                  <div className="text-xs text-gray-500">12.5 MB • Ready to open</div>
+                  <div className="text-xs text-gray-500">12.5 MB ??Ready to open</div>
                 </div>
               </div>
             </div>
@@ -172,7 +171,7 @@ export default function Home() {
           </div>
 
           <div className="mt-16 bg-blue-900/20 border border-blue-500/30 rounded-full py-4 px-8 inline-flex items-center gap-3 backdrop-blur-sm animate-fade-in shadow-lg shadow-blue-500/10">
-            <span className="text-2xl">ℹ️</span>
+            <span className="text-2xl">?�️</span>
             <div className="text-left">
               <span className="block text-blue-400 font-bold text-sm uppercase tracking-wider">Need help?</span>
               <span className="text-gray-300 text-sm">Full documentation & step-by-step guide included. You are never alone.</span>
@@ -203,17 +202,16 @@ export default function Home() {
               <p className="text-gray-400 mb-8">Launch your AI SaaS this weekend.</p>
 
               <ul className="space-y-4 mb-8 text-left inline-block">
-                <ListItem text="✅ Complete Python Source Code" />
-                <ListItem text="✅ 100% Royalty Free" />
-                <ListItem text="✅ Customization Guide Included" />
-                <ListItem text="✅ Free Updates forever" />
+                <ListItem text="??Complete Python Source Code" />
+                <ListItem text="??100% Royalty Free" />
+                <ListItem text="??Customization Guide Included" />
+                <ListItem text="??Free Updates forever" />
               </ul>
 
               <button
-                onClick={() => window.open('https://gumroad.com/l/your-product', '_blank')}
+                onClick={() => window.open('https://zeeshanptn.gumroad.com/l/your-product', '_blank')}
                 className="w-full py-4 rounded-lg bg-white text-black hover:bg-gray-200 transition font-bold shadow-lg shadow-purple-900/20 text-lg">
-                Get Instant Access ⚡
-              </button>
+                Get Instant Access ??              </button>
             </div>
           </div>
         </div>
